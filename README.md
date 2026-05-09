@@ -149,6 +149,21 @@
 </a>
 <br><strong>Linux</strong>
 </td>
+
+<td align="center" width="96">
+<a href="https://www.hibernate.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="55" height="55" alt="hibernate"/>
+</a>
+<br><strong>Hibernate</strong>
+</td>
+
+<td align="center" width="96">
+<a href="https://www.postgresql.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="postgresql"/>
+</a>
+<br><strong>PostgreSQL</strong>
+</td>
+
 </tr>
 
 </table>
